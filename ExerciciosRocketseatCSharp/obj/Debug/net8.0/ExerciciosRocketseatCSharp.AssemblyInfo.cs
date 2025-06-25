@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosRocketseatCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80b7b5f7fbf4ec18244c131be75f92307ee7e42b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+396111d494f8eb738804c4b34d8bd616ca6538f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosRocketseatCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosRocketseatCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
